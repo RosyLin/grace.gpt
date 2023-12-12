@@ -1,0 +1,62 @@
+1	Agile	A project management methodology that involves a flexible and iterative approach to product development		
+2	Bandwidth	In business, it often refers to the capacity to handle work or the ability to focus on a task		
+3	Blockchain	A system of recording information in a way that makes it difficult or impossible to change, hack, or cheat the system		
+4	Blue Ocean Strategy	A marketing theory that suggests companies are better off searching for ways to gain "uncontested market space" rather than competing with similar companies		
+5	Bootstrapping	Starting a business with minimal resources or capital		
+6	Burn Rate	The rate at which a new company spends its venture capital to finance overhead before generating positive cash flow		
+7	Churn Rate	The rate at which customers stop doing business with an entity		
+8	Cloud Computing	The delivery of different services through the Internet, including data storage, servers, databases, networking, and software		
+9	Core Competency	A defining capability or advantage that distinguishes an enterprise from its competitors		
+10	Disruptive Technology	An innovation that significantly alters the way that consumers, industries, or businesses operate		
+11	Ecosystem	A business term for a network of interconnected businesses		
+12	End User	The final consumer of a product or service		
+13	Freemium	A business model where a basic service is provided free of charge, but money is charged for additional features		
+14	Growth Hacking	Strategies and tactics aimed specifically at building a business's customer base		
+15	Hyperlocal	Targeting an audience in a very specific, geographically restricted area		
+16	Inbound Marketing	A strategy that focuses on attracting customers through content and interactions that are relevant and helpful		
+17	KPI (Key Performance Indicator)	A set of quantifiable measures that a company uses to gauge its performance over time		
+18	Lean Startup	A methodology for developing businesses and products that aims to shorten product development cycles		
+19	Low-Hanging Fruit	The easiest tasks, steps, or goals to achieve in a given business context		
+20	Machine Learning	A type of artificial intelligence that allows software applications to become more accurate at predicting outcomes without being explicitly programmed to do so		
+21	Minimum Viable Product (MVP)	The version of a new product which allows a team to collect the maximum amount of validated learning about customers with the least effort		
+22	Omnichannel	A multi-channel approach to sales that seeks to provide customers with a seamless shopping experience		
+23	Pain Point	A problem, real or perceived, experienced by potential customers		
+24	Pivot	A fundamental change in business strategy		
+25	Return on Investment (ROI)	A performance measure used to evaluate the efficiency of an investment		
+26	SaaS (Software as a Service)	A software distribution model in which a third-party provider hosts applications and makes them available to customers over the Internet		
+27	Scalability	The capacity for a business or process to expand and manage increased demand		
+28	SEO (Search Engine Optimization)	The practice of increasing the quantity and quality of traffic to your website through organic search engine results		
+29	Stakeholder	An individual, group, or organization that has an interest in or is affected by the activities of a business		
+30	Synergy	The concept that the value and performance of two companies combined will be greater than the sum of the separate individual parts		
+31	Thought Leadership	A type of content marketing where you tap into the talent, experience, and passion inside your business, or from your community, to consistently answer the biggest questions on the minds of your target audience		
+32	Touchpoint	Any point of contact between a buyer and a seller		
+33	User Experience (UX)	A person's emotions and attitudes about using a particular product, system, or service		
+34	Value Proposition	An innovation, service, or feature intended to make a company or product attractive to customers		
+35	Venture Capital	Financial capital provided to early-stage, high-potential, high risk, growth startup companies		
+36	Virtual Reality (VR)	The use of computer technology to create a simulated environment		
+37	White Paper	An authoritative report or guide that informs readers concisely about a complex issue and presents the issuing body's philosophy on the matter		
+38	Workflow	The sequence of processes through which a piece of work passes from initiation to completion		
+39	Yield	The income return on an investment		
+40	Zero Sum Game	A situation in which one person's gain is equivalent to another's loss, so the net change in wealth or benefit is zero		
+-----------------------------------------------------------------------				
+41	Rosy	a person at Cornell Tech likes to drink matcha		
+42	The House	an apartment with 26 floors on Roosevelt Island for grad students		
+43	Adam Yormark	an amazing coach for team 6 for the product studio curriculum at Cornell Tech		
+44	River Room	a room on the 26th floor with study spaces and a TV		
+45	Tata	A hub for researchers, startups, established companies, and top-tier academic partnerships.		
+46	Bloomberg	A homebase for students, faculty, and staff, with modern classrooms, open work spaces, and The Café.		
+47	Verizon Center	A gathering place for organizations to shape the future of technology.		
+48	Maker Day	a day when studio teams present their research and progress on their HMWs to their peers and studio coaches		
+49	Startup Studio	a curriculum that allows a team of students to develop their own product or startup ideas		
+50	PiTech Studio	previously a part of the studio curriculum, now an elective that focuses on public interest		
+51	BigCo Studio	a curriculum that allows a team of students to innovate for a big company		
+52	Grannie Annie's	A pub on Roosevelt Island		
+53	WhatsApp	Messaging app owned by Meta		
+54	MBA	Masters of Business Administration		
+55	LLM	Master of Laws (LLM) in Law, Technology, and Entrepreneurship		
+56	ORIE	Master of Engineering in Operations Research and Information Engineering		
+57	CM	Masters of Connective Media		
+58	MS DT	Master of Science in Design Technology		
+59	ECE	Master of Engineering in Electrical and Computer Engineering		
+60	M. ENG in CS	Master of Engineering in Computer Science		
+61	Master's Studio	Room in Bloomber buidling for Master students to work in		
